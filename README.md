@@ -1,3 +1,8 @@
+This is a generic message that this repo is being used for a test message on Tuesday 30 January 2018.
+Thanks for enduring this test!
+
+
+
 # vue-auth-cognito
 
 [![npm](https://img.shields.io/npm/v/vue-auth-cognito.svg)](https://www.npmjs.com/package/vue-auth-cognito)
